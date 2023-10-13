@@ -44,7 +44,7 @@ EOF
 
 vagrant up
 
-source commands.sh 
+source command.sh 
 
 
   
